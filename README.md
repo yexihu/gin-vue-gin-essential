@@ -2,6 +2,9 @@
 
 ## 目标
 本项目主要用于练习Golang的web开发
+[B站视频地址](https://www.bilibili.com/video/av92519169)
+[gin后端](https://github.com/haydenzhourepo/gin-vue-gin-essential)
+[vue前端](https://github.com/haydenzhourepo/gin-vue-gin-essential-vue)
 
 
 ## 开始
@@ -25,11 +28,14 @@
 根据上面的应用程序流程设计，项目的目录结构设计如下：
 
 	|——main.go         入口文件
+	|——routes.go       路由
 	|——config          配置文件
 	|——controller      控制器入口
 	|——models          数据库模型模块
 	|——utils           辅助函数库
 	|——common          通用函数库
-    |——dto            
-    |——middleware      中间件 
-    |——response        标准响应方法 
+        |——dto            
+        |——middleware      中间件 
+        |——response        标准响应方法 
+	|——repository            
+        |——vo
