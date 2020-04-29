@@ -33,17 +33,3 @@
     |——dto            
     |——middleware      中间件 
     |——response        标准响应方法 
-### 安装
-项目开发使用Go版本为1.13.7，建议使用>=1.13.7版本运行软件
-```
-$ git clone git@github.com:xietongMe/ginEssential.git
-$ cd ginEssential
-```
-修改config/application.yaml中的配置为你本地的数据库配置
-
-创建database并将其填入配置文件中
-### 运行
-```
-$ go run main.go
-```
-
