@@ -2,9 +2,12 @@
 
 ## 目标
 本项目主要用于练习Golang的web开发
-[B站视频地址](https://www.bilibili.com/video/av92519169)
-[gin后端](https://github.com/haydenzhourepo/gin-vue-gin-essential)
-[vue前端](https://github.com/haydenzhourepo/gin-vue-gin-essential-vue)
+
+相关链接
+- [B站视频地址](https://www.bilibili.com/video/av92519169)
+- [gin后端](https://github.com/haydenzhourepo/gin-vue-gin-essential)
+- [vue前端](https://github.com/haydenzhourepo/gin-vue-gin-essential-vue)
+- [站点](http://218.25.35.27:8083/docs/laenix_daily)
 
 
 ## 开始
